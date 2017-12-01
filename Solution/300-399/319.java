@@ -1,4 +1,4 @@
-// JAVA
+// JAVA 20171201
 public class Solution {
     public int bulbSwitch(int n) {
         int result = 0;
